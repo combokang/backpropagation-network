@@ -1,6 +1,6 @@
-# Perceptron
+# Backpropagation
 
-An artifitial neural backpropagation network sample with XOR operation.
+An backpropagation artifitial neural network sample with XOR operation.
 Training and testing data: XOR.csv
 
 ## License
